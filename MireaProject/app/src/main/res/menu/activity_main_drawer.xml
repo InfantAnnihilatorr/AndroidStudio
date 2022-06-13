@@ -9,14 +9,6 @@
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/menu_home" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
-        <item
             android:id="@+id/webViewFragment"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Браузер" />
@@ -24,6 +16,36 @@
             android:id="@+id/calculateFragment"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Калькулятор" />
+
+        <item
+            android:id="@+id/musicPlayer"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Проигрыватель" />
+
+        <item
+            android:id="@+id/recorderFragment2"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Запись" />
+
+        <item
+            android:id="@+id/cameraFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Камера" />
+
+        <item
+            android:id="@+id/datchikFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Датчик" />
+
+        <item
+            android:id="@+id/settingsFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Настройки" />
+
+        <item
+            android:id="@+id/storiesFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Истории" />
 
     </group>
 </menu>

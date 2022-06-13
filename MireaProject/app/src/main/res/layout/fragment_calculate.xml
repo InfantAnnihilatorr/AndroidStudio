@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/teal_700"
     tools:context=".ui.Calculate.CalculateFragment">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -25,7 +26,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:hint="Введите первое число"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:inputType="number"
             android:minHeight="48dp"
             app:layout_constraintBottom_toTopOf="@+id/Num2"
@@ -42,7 +43,7 @@
             android:layout_marginBottom="484dp"
             android:ems="10"
             android:hint="Введите второе число"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:inputType="number"
             android:minHeight="48dp"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -54,8 +55,9 @@
             android:id="@+id/Multiplication"
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:text="*"
             android:onClick="OnClick4"
+            android:textColor="@color/white"
+            android:text="*"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
@@ -68,8 +70,8 @@
             android:layout_width="48dp"
             android:layout_height="48dp"
             android:layout_marginTop="21dp"
-            android:text="-"
             android:onClick="OnClick2"
+            android:text="-"
             app:layout_constraintStart_toEndOf="@+id/Sum"
             app:layout_constraintTop_toBottomOf="@+id/Num2" />
 
@@ -78,8 +80,8 @@
             android:layout_width="48dp"
             android:layout_height="48dp"
             android:layout_marginTop="21dp"
-            android:text="/"
             android:onClick="OnClick3"
+            android:text="/"
             app:layout_constraintStart_toEndOf="@+id/Subtraction"
             app:layout_constraintTop_toBottomOf="@+id/Num2" />
 
@@ -99,8 +101,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="80dp"
+            android:rotation="41"
+            android:textColor="@color/white"
+            android:rotationX="46"
+            android:rotationY="8"
             android:text="Результат:"
-            android:textColor="@color/black"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.117"

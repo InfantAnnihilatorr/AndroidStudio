@@ -80,7 +80,7 @@ public class CalculateFragment extends Fragment {
                 {
                     if(Integer.parseInt(text2) == 0)
                     {
-                        resultText.setText("Деление на ноль...");
+                        resultText.setText("На ноль делить нельзя");
                     }
                     else
                     {
