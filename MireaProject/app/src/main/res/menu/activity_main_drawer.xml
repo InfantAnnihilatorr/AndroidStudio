@@ -47,5 +47,20 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Истории" />
 
+        <item
+            android:id="@+id/retrofitFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Ретрофит" />
+
+        <item
+            android:id="@+id/mapsFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Карты" />
+
+        <item
+            android:id="@+id/dataBaseMain"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Работа с БД" />
+
     </group>
 </menu>

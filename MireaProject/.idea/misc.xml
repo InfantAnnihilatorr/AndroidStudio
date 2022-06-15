@@ -9,12 +9,20 @@
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout-port/list_story.xml" value="0.3569230769230769" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/activity_main.xml" value="0.3569230769230769" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/app_bar_main.xml" value="0.3569230769230769" />
+        <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_auth.xml" value="0.3569230769230769" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_calculate.xml" value="0.5" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_camera.xml" value="0.14074074074074075" />
+        <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_database.xml" value="0.325" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_datchik.xml" value="1.0" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_home.xml" value="0.3569230769230769" />
+        <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_map.xml" value="0.325" />
+        <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_maps.xml" value="0.29620253164556964" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_music_player.xml" value="0.3569230769230769" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_recorder.xml" value="0.17" />
+        <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_retrofit.xml" value="0.325" />
+        <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_settings.xml" value="0.1828125" />
+        <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/fragment_stories.xml" value="0.325" />
+        <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/layout/list_item.xml" value="0.2970464135021097" />
         <entry key="..\:/Lukyanov/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.20680272108843537" />
         <entry key="..\:/Users/79191/AndroidStudioProjects/MireaProject/app/src/main/res/layout/app_bar_main.xml" value="0.14722222222222223" />
         <entry key="..\:/Users/79191/AndroidStudioProjects/MireaProject/app/src/main/res/layout/calculate_fragment.xml" value="0.36666666666666664" />
@@ -25,6 +33,18 @@
         <entry key="..\:/Users/79191/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_web.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/79191/AndroidStudioProjects/MireaProject/app/src/main/res/layout/web_fragment.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/79191/AndroidStudioProjects/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_calculate.xml" value="0.33" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_camera.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_database.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_datchik.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_maps.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_music_player.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_recorder.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_retrofit.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_settings.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_stories.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_web.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/ORKS/AndroidStudioProjects/MireaProject/app/src/main/res/layout/list_item.xml" value="0.3451086956521739" />
       </map>
     </option>
   </component>

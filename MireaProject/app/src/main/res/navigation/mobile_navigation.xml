@@ -51,4 +51,18 @@
         android:name="com.mirea.lukyanovea.mireaproject.ui.stories.StoriesFragment"
         android:label="fragment_stories"
         tools:layout="@layout/fragment_stories" />
+    <fragment
+        android:id="@+id/retrofitFragment"
+        android:name="com.mirea.lukyanovea.mireaproject.ui.Retrofit.RetrofitFragment"
+        android:label="fragment_retrofit"
+        tools:layout="@layout/fragment_retrofit" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.mirea.lukyanovea.mireaproject.ui.maps.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" />
+    <fragment
+        android:id="@+id/dataBaseMain"
+        android:name="com.mirea.lukyanovea.mireaproject.ui.DB.DataBaseMain"
+        android:label="DataBaseMain" />
 </navigation>
